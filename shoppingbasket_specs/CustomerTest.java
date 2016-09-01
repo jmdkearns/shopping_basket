@@ -14,7 +14,7 @@ public class CustomerTest {
 
   @Test
   public void canHaveLoyaltyCard() {
-    assertEquals( true, customer.getloyaltyCard() );
+    assertEquals( true, customer.loyaltyCard() );
   }
 
 }

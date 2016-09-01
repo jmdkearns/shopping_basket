@@ -4,6 +4,6 @@ import java.util.ArrayList;
 public class Customer {
 
   public Customer() {
-    this.loyaltyCard = 
+    this.loyaltyCard = true
   }
 }
